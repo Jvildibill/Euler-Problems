@@ -1,4 +1,7 @@
 # Euler-Problems
 
-Problem Number 1 - completed 1/21/19 
-  **Find the sum of all the multiples of 3 or 5 below 1000** wanted to have users input the "range" but it kept breaking so I hard coded it
+Problem Number 1 - **Find the sum of all the multiples of 3 or 5 below 1000** 
+/n  
+Problem Number 2 - **By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms**
+/n
+Problem Number 3 - **What is the largest prime factor of the number 600851475143**
